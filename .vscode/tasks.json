@@ -1,0 +1,22 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Lorenz CLI",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"main.py",
+				"--system",
+				"lorenz",
+				"--time-span",
+				"20",
+				"--num-points",
+				"5000"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
