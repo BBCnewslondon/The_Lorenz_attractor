@@ -33,11 +33,6 @@ python main.py --system double_pendulum
 python dashboard.py
 ```
 
-### Jupyter Notebooks
-Explore the interactive notebooks in the `notebooks/` directory:
-- `lorenz_explorer.ipynb`: Interactive Lorenz attractor exploration
-- `double_pendulum.ipynb`: Double pendulum analysis
-- `chaos_comparison.ipynb`: Compare different chaotic systems
 
 ## Project Structure
 
